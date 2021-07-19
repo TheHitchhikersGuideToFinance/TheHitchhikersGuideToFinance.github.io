@@ -3,61 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost/digging_resources/foss/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/digging_resources/hardware/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/digging_resources/market_data/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/digging_resources/reddit_subs/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/digging_resources/search_engines/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/digging_resources/vpn/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/due_diligence/AMC/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/due_diligence/BB/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/due_diligence/GME/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/help_build_the_community/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/help_build_the_community/edit_with_github/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/help_build_the_community/edit_with_web_browser/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/help_build_the_community/maintainers/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/help_build_the_community/overview/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/basics/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/charts_float_marketcap/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/greeks/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/psychology/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/risk_management/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/trading/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/trading/exchanges/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/basics/trading/order_types/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/crypto/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/crypto/automated_trading/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/crypto/how_to_buy_and_sell/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/crypto/overview/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/external_resources/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/external_resources/alternatives_to_main_stream_media/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/external_resources/educational_videos/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/options/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_1/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_1/cash_secured_puts/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_1/covered_calls/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_2/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_2/long_call/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_2/long_put/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_3/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_3/spreads/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_4/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/options/level_4/uncovered/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/technical_analysis/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/technical_analysis/exponential_moving_average/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost/market_education/technical_analysis/simple_moving_average/</loc>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/categories/</loc>
   </url><url>
     <loc>http://localhost/digging_resources/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/due_diligence/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/market_education/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost/tags/</loc>
   </url><url>
     <loc>http://localhost/</loc>
-    <lastmod>2021-07-19T17:36:08-05:00</lastmod>
+    <lastmod>2021-07-19T18:27:57-05:00</lastmod>
   </url>
 </urlset>
