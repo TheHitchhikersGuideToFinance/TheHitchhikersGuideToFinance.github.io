@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Hitchhikers Guide to Finance</title>
-    <link>http://localhost/market_education/crypto/how_to_buy_and_sell/</link>
+    <link>http://localhost/market_education/cryptocurrency/automated_trading/</link>
     <description>Recent content on The Hitchhikers Guide to Finance</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/market_education/crypto/how_to_buy_and_sell/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/market_education/cryptocurrency/automated_trading/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
