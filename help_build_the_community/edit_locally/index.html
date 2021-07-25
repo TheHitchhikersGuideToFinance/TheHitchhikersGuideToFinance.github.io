@@ -11,7 +11,7 @@
 
 
     <meta name="description" content="To make major edits to the website, such as adding pages or reorganizing the menu it is highly recommended to edit the site locally, preview the edits, and then merge it into the main branch with GitHub. Here are the steps to do that!
-   Create a GitHub Account and Setup SSH Clone the Repo Install Hugo Run the Site Locally Download Atom Edit the Site! Site Organization  Menu Pages   Adding html     Create a GitHub Account and Setup SSH    Instructions for how to do this can be found here.">
+   Create a GitHub Account and Setup SSH Clone the Repo Install Hugo Run the Site Locally Download Atom Edit the Site! Site Organization  Menu Pages   Commit and Push Adding html     Create a GitHub Account and Setup SSH    Instructions for how to do this can be found here.">
 
 
 
@@ -1788,6 +1788,7 @@ merge it into the main branch with GitHub. Here are the steps to do that!</p>
             <li><a href="#pages">Pages</a></li>
           </ul>
         </li>
+        <li><a href="#commit-and-push">Commit and Push</a></li>
         <li><a href="#adding-html">Adding html</a></li>
       </ul></nav><hr></div>
 
@@ -1880,6 +1881,18 @@ file must be created. A list of features that are provided in this submodule and
 can be used in building this website, such as code blocks, buttons, columns, hints,
 equations, etc., can be found <a class="gdoc-markdown__link" href="https://geekdocs.de/features/code-blocks/">here</a>.</p>
 <div class="gdoc-page__anchorwrap">
+    <h2 id="commit-and-push">
+        Commit and Push
+        <a data-clipboard-text="http://localhost/help_build_the_community/edit_locally/#commit-and-push" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Commit and Push" href="#commit-and-push">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Once your edits are made, and you have previewed them to ensure the site functions
+correctly, it is time to integrate them to the live website. This can be done by
+navigating to the Git tab in the bottom right of Atom. Once there, click
+Stage All, write a short message, and click Commit to main. Then click the
+Push button that appears in the bottom right. That&rsquo;s it!</p>
+<div class="gdoc-page__anchorwrap">
     <h2 id="adding-html">
         Adding html
         <a data-clipboard-text="http://localhost/help_build_the_community/edit_locally/#adding-html" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Adding html" href="#adding-html">
@@ -1894,7 +1907,6 @@ any page by using <code>{{&lt; mycode &gt;}}</code>.</p>
 <p>To insert a .mp4 video, for example, you can use the html shortcode that has
 already been created. Store the video in the <em>static -&gt; videos</em> folder, and
 insert the video in any page using <code>{{&lt; addmp4vid myvideofile &gt;}}</code>.</p>
-<p>.</p>
 
 
     </article>
